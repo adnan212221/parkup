@@ -56,7 +56,6 @@ const MainComponent = () => {
                 alt="Parking Lot"
                 className="img-fluid rounded"
                 style={{
-                  border: '6px solid #fff',
                   boxShadow: '0 10px 20px rgba(0,0,0,0.3)',
                 }}
               />
